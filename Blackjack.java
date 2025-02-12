@@ -1,9 +1,7 @@
 import java.util.Scanner;
 /**
- * Write a description of class Blackjack here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * GraceDice
+ * March 29th, 2023
  */
 public class Blackjack
 {
